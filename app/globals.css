@@ -3,4 +3,13 @@
 
 @tailwind base;
 @tailwind components;
-@tailwind utilities
+@tailwind utilities;
+
+.header {
+    border-bottom: 5px solid;
+}
+
+.header-text {
+    font-size: 50px;
+    font-weight: bold;
+}
